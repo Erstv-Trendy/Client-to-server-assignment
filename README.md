@@ -1,3 +1,8 @@
+# GROUP MEMBERS
+# 1. ERASTO ALOIS KAYOMBO 
+# 2. HARUNA SELEMANI JUMANNE
+
+
 # TCP Chat Application
 
 A simple two-way chat application built with Python's `socket` module over a TCP connection.
